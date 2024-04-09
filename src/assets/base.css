@@ -1,0 +1,20 @@
+:root {
+    --main-bg-color: #0c0d1a;
+    --text-color: #fff;
+    --main-text-size: 16px;
+}
+
+@font-face {
+    font-family: 'MerriweatherMedium';
+    src: url(./fonts/MerriweatherSans-Medium.ttf);
+  }
+  
+  @font-face {
+    font-family: 'MerriweatherRegular';
+    src: url(./fonts/MerriweatherSans-Regular.ttf);
+  }
+  
+  @font-face {
+    font-family: 'MerriweatherBold';
+    src: url(./fonts/MerriweatherSans-Bold.ttf);
+  }

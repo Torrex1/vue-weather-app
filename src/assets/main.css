@@ -1,0 +1,19 @@
+@import './base.css';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  background-color: var(--main-bg-color);
+  color: var(--text-color);
+  font-family: 'MerriweatherMedium';
+  font-size: var(--main-text-size);
+}
